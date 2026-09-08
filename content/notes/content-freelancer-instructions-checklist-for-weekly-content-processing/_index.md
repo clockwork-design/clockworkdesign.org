@@ -49,8 +49,8 @@ I will make sure you get the content to pre-process no later than mid-day the Su
 1. Steven: Update freelancing Google Sheet
 1. Steven: Message content freelancer that content is ready to post-process
 1. Content freelancer: [Add embedded video clips for Dropbox recording segments](content-freelancer-instructions-add-embedded-video-clips-for-dropbox-recording-segments)
-1. Content freelancer: [Add properly-formatted scripture shortcodes, if `outline-content` or `live-content`](content-freelancer-instructions-add-properly-formatted-scripture-shortcodes-if-outline-content-or-live-content)
-1. Content freelancer: [Add slide breaks, if `outline-content` or `live-content`](content-freelancer-instructions-add-slide-breaks-if-outline-content-or-live-content)
+1. Content freelancer: [Add properly-formatted scripture shortcodes during post-processing, if `outline-content` or `live-content`](/notes/content-freelancer-instructions-add-properly-formatted-scripture-shortcodes-during-post-processing-if-outline-content-or-live-content)
+1. Content freelancer: [Add slide breaks during post-processing, if `outline-content` or `live-content`](/notes/content-freelancer-instructions-add-slide-breaks-during-post-processing-if-outline-content-or-live-content)
 1. Content freelancer: [Add/update summaries](content-freelancer-instructions-rolling-up-summaries-tags-and-review-questions)
 1. Content freelancer: [Add/update subject tags](content-freelancer-instructions-rolling-up-summaries-tags-and-review-questions)
 1. Content freelancer: [Add/update passage tags](content-freelancer-instructions-rolling-up-summaries-tags-and-review-questions)
