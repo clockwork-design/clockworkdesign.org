@@ -616,8 +616,9 @@ You don't have to have any subtext under the question header. So this would work
 1. [x] Gabriel
 ```
 
-When defining answers to fill-in-the-blank questions, you can make a word or phrase optional by wrapping it in parentheses, followed by a question mark. There should also be a trailing space inside the parentheses (representing the fact that it is optional too: the thing that is optional is the word or phrase plus a trailing space). So, for example, to accept either "Holy Spirit" or "The Holy Spirit" as answers, you'd specify the fill-in-the-blank answer as `(The )?Holy Spirit`.
+When defining answers to fill-in-the-blank questions, you can make it so that there is more than one accepted answer, using regular expression syntax (`()` and `|`).
 
+- So `(The Holy Spirit|Holy Spirit)` will match either `The Holy Spirit` or `Holy Spirit`.
 
 <!--
 
