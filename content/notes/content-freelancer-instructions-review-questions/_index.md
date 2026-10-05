@@ -314,8 +314,8 @@ That leaves the following question types left to use:
 
 - Pick between two options questions
 - Roman numeral which of the following are true multiple choice questions
-  - Specifically, questions of this type that only have at most one false roman numeral statement. That is, all can be true or one can be false, but more than one cannot be false.
-  - You can have more than one false multiple choice option (e.g., if II is false, then the multiple options "I and II", "II and III" and "All of the above" would be false); the point is that there is only at most one false roman numeral statement.
+  - Specifically, questions of this type that only have at most one false Roman numeral statement. That is, all can be true or one can be false, but more than one cannot be false.
+  - You can have more than one false multiple choice option (e.g., if II is false, then the multiple choice options "I and II", "II and III" and "All of the above" would be false); the point is that there is only at most one false Roman numeral statement.
 - All of the following are true except multiple choice questions
 - Basic multiple select questions
   - Specifically, questions of this type that only have at most one false option.
@@ -328,9 +328,9 @@ That leaves the following question types left to use:
 
 Generally speaking, wherever possible and it makes sense, you should combine questions. This helps keep the overall number of review questions more manageable, without really sacrificing the amount of information gone over.
 
-So rather than stringing together a bunch of separate pick between two options questions or fill-in-the-blank questions (both of which are inherently question types where only one option is true), it makes sense to combine them into a single question that allows for multiple options. That would be any of these combined question types:
+So rather than stringing together a bunch of separate pick between two options questions or fill-in-the-blank questions (both of which are inherently question types where only one piece of information is conveyed), it makes sense to combine them into a single question that allows for multiple options. That would be any of these combined question types:
 
-- Roman numeral which of the following are true multiple choice questions (with at most one false roman numeral)
+- Roman numeral which of the following are true multiple choice questions (with at most one false Roman numeral)
 - All of the following are true except multiple choice questions
 - Basic multiple select questions (with at most one false option)
 
