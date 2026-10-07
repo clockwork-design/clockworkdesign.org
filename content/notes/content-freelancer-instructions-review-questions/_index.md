@@ -328,13 +328,21 @@ That leaves the following question types left to use:
 
 Generally speaking, wherever possible and it makes sense, you should combine questions. This helps keep the overall number of review questions more manageable, without really sacrificing the amount of information gone over.
 
-So rather than stringing together a bunch of separate pick between two options questions or fill-in-the-blank questions (both of which are inherently question types where only one piece of information is conveyed), it makes sense to combine them into a single question that allows for multiple options. That would be any of these combined question types:
+So rather than stringing together a bunch of separate pick between two options questions or fill-in-the-blank questions (both of which are inherently question types where only one piece of true information is conveyed per question), it makes sense to combine them into a single question that allows for multiple pieces of information to be covered at the same time. That would be any of these combined question types:
 
 - Roman numeral which of the following are true multiple choice questions (with at most one false Roman numeral)
 - All of the following are true except multiple choice questions
 - Basic multiple select questions (with at most one false option)
 
-In practice, this means that *these three combined question types should compose the bulk of the questions you make*. It doesn't have to be all of them, but it should probably be most of them.
+#### How about deciding between these combined question types? Any that are better/worse, even within this small set?
+
+The Roman numeral which of the following are true multiple choice questions tend to have less information covered overall than all of the following are true except multiple choice questions and basic multiple select questions (with at most one false option). It's hard to go much past two or three true statements per question in the Roman numeral which of the following are true multiple choice question format.
+
+This means that the same logic about more combined = better (due to the higher information density per question) also applies here (albeit to a relatively lesser degree). The only exception is if there really is no way to increase the number of true statements that a question covers, due to whatever reason. For example, say the content was organized into two important overarching points, and you want to test the reader on those two points specifically. Well then you only have two true statements to test (rather than more), and that would make it awkward to use all of the following are true except multiple choice questions or basic multiple select questions (with at most one false option). This would be a good case to use a Roman numeral which of the following are true multiple choice questions.
+
+However, circumstances like that will tend to be pretty rare, so in general, you should stick with *only* all of the following are true except multiple choice questions and basic multiple select questions (with at most one false option). Unless something is clearly in sequence format, in which case you should use a sequence/order question. These three question types should be what you always aim for. You'd only ever use a different type of question in particularly irregular circumstances.
+
+Since all of the following are true except multiple choice questions and basic multiple select questions (with at most one false option) will compose the bulk of the questions you make, be sure to alternate between these question types in order to maximize variety.
 
 ### Other usage guidelines
 
