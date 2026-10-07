@@ -108,6 +108,38 @@ Why:
 - Since a follow-on topic will be about Richard the Lionheart and Saladin, the broader source clip video shouldn't use them in its thumbnail.
 
 
+### [Crusade mythologizing: Richard the Lionheart and Saladin](https://www.bibledocs.org/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/#crusade-mythologizing-richard-the-lionheart-and-saladin)
+
+#### Subject tags
+
+Initial value:
+
+- stags="Crusades > Third Crusade > Has been highly romanticized | Richard the Lionheart | Saladin > Was negatively portrayed in contemporary accounts, but became esteemed in later Western sources"
+
+Changed to:
+
+- stags="Saladin > Was negatively portrayed in contemporary accounts, but became esteemed in later Western sources"
+
+Why?
+
+- Because the parent section (Ryan Reeves: The Third Crusade) already has Subject tags of "Saladin", "Richard the Lionheart" and "Crusades > Third Crusade > Has been highly romanticized", then we don't want to repeat the tags on the subsection. Remember that when we roll tags up, we take them off of the child sections.
+
+### [Group discussion: The Third Crusade](https://www.bibledocs.org/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/#group-discussion-the-third-crusade)
+
+#### Content thumbnail description
+
+Initial value:
+
+- content-thumbnail-description="Image with representations of leaders and key people of the Third Crusade, such as Richard the Lionheart, Saladin, Philip II of France, Pope Gregory VIII, and the words 'Third Crusade' with an equals sign 'stalemate'"
+
+Changed to:
+
+- content-thumbnail-description="Image of Richard the Lionheart on the left, image of Saladin on the right. Over the top of both images, have the words 'Third Crusade' with an equals sign, and then the word 'stalemate'."
+
+Why?
+
+- Remember that thumbnails need to stay limited to a very small number of ideas at a time, since there's not enough room for multiple topics at once.
+
 {{% /content %}}
 
 {{% section-navigation %}}
