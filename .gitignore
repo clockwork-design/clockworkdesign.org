@@ -1,3 +1,6 @@
+# Ignore templates
+_template/
+
 # Ignore draft pages not ready for public view
 drafts/
 content/drafts/
