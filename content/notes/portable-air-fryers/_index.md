@@ -55,6 +55,18 @@ I bought a different product for stacking racks, because at the time I was buyin
 
 The 6 cup container is short enough that having two levels of stacking wouldn't make much sense, in my opinion. (You don't want stuff getting too close to heating element, past a certain point). And the 4 qt container is short enough that having three levels of stacking wouldn't make much sense (even though there are in fact stacking stainless steel rack products that allow for three layers).
 
+#### Silicone mat to place the air fryer top on
+
+- [Amazon.com: Tailored Ninja Crispi PowerPod Silicone Trivet – Hot Pads for Ninja Crispi Glass Air Fryer Accessories, Heat-Resistant, Non-Slip, Protection for Countertop, Fit Ninja FN101GY | FN101SG | FN101ST: Home & Kitchen](https://www.amazon.com/dp/B0DSJ5CNWF)
+
+This is useful for a couple reasons:
+
+- It lets you set down the top of the air fryer without worrying at all about the counter surface.
+  - You might truly not need it in practice (since the air fryer top is already designed to not directly expose the counter surface to heat), but clearly having it is even better.
+- Because it is non-slip silicone, it holds the top in place more securely.
+
+I got it in navy blue, to match the color of the air fryer I bought. The matching colors make the combo look sharp.
+
 ### Why use a portable air fryer? Maximally easy cleanup, that's why
 
 The very small design makes it maximally easy to clean.
@@ -82,7 +94,7 @@ The portable air fryer is a lot cheaper than bigger air fryers. If you don't nee
 - If you ever decide you *do* want to cook pizzas and whatnot, having a bigger air fryer/toaster oven *and* the portable air fryer allows you to use two different temperatures/cook times when cooking two things simultaneously.
   - Compared to a [dual air fryer proper](https://www.sharkninja.com/kitchen/small-kitchen-appliances/air-fryers/double-basket-air-fryer) (which tend to have two small cooking areas), using a big air fryer/oven plus a portable air fryer gives you more flexibility, since it allows you to have one large cooking area plus one small cooking area, rather than only having two small cooking areas.
 - In practice, when I use dual-oven cooking, when possible, I try to put the messy thing in the portable air fryer with the glass container, since cleanup is easier that way.
-  - You can technically buy a glassware air fryer that is big enough for pizzas and other large things, but those are way more expensive than and equivalent-volume plain metal toaster oven. So I personally use [a regular metal toaster oven](https://www.amazon.com/dp/B07W67NQMN) plus the portable glassware air fryer. YMMV.
+  - You can technically buy a glassware air fryer that is big enough for pizzas and other large things, but those are way more expensive than an equivalent-volume plain metal toaster oven. So I personally use [a regular metal toaster oven](https://www.amazon.com/dp/B07W67NQMN) plus the portable glassware air fryer. YMMV.
 
 {{% /content %}}
 
