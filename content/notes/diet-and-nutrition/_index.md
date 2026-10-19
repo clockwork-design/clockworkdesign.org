@@ -383,11 +383,11 @@ Core ingredients:
 
 Dressing options:
 
-[Zesty Italian dressing](https://foodsalive.com/products/salad-dressing-zesty-italian)
-[Greek dressing](https://foodsalive.com/products/salad-dressing-greek)
-[Garlic paprika dressing](https://foodsalive.com/products/salad-dressing-garlic-paprika)
-[Honey-less mustard dressing](https://foodsalive.com/products/salad-dressing-honeyless-mustard)
-[Sesame ginger dressing](https://foodsalive.com/products/salad-dressing-sesame-ginger)
+- [Zesty Italian dressing](https://foodsalive.com/products/salad-dressing-zesty-italian)
+- [Greek dressing](https://foodsalive.com/products/salad-dressing-greek)
+- [Garlic paprika dressing](https://foodsalive.com/products/salad-dressing-garlic-paprika)
+- [Honey-less mustard dressing](https://foodsalive.com/products/salad-dressing-honeyless-mustard)
+- [Sesame ginger dressing](https://foodsalive.com/products/salad-dressing-sesame-ginger)
 
 Always eaten with:
 
