@@ -50,6 +50,13 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
     weight = 2
     identifier = "blog"
     url = "/blog/"
+  [[menu.navigation]]  
+    name = "Research logs"
+    pre = "<i class='fa fa-calendar fa-fw'></i>"
+    weight = 2
+    identifier = "research-logs"
+    url = "/research-logs/"
+
 #  [[menu.navigation]]
 #    name = "Contact"
 #    pre = "<i class='fas fa-phone fa-fw'></i>"
@@ -68,7 +75,6 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
 #    weight = 4
 #    identifier = "about-the-site"
 #    url = "/about-the-site/"
-	
 
   [[menu.content]]
     name = "Notes"

@@ -1,0 +1,19 @@
+{{ $chatbot := .Get "chatbot" }}
+
+<div class="special-content quote">
+
+{{ if eq (lower $chatbot) "gemini"}}
+<strong>
+	AI chatbot response from from <a href="https://gemini.google.com/app">Gemini</a>
+</strong>
+{{ end }}
+
+{{ if eq (lower $chatbot) "chatgpt"}}
+<strong>
+	AI chatbot response from from <a href="https://chatgpt.com/">ChatGPT</a>
+</strong>
+{{ end }}
+
+{{ .Inner }}
+	
+</div>
